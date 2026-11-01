@@ -313,3 +313,11 @@ La API utiliza, entre otros, los siguientes códigos HTTP:
 - `500 Internal Server Error`: error inesperado del servidor.
 
 Los detalles del error se devuelven en el campo `detail` de la respuesta JSON.
+
+### 👨‍💻 Equipo
+
+| [<img src="https://avatars.githubusercontent.com/u/138830413?v=4" width="115"><br><sub>Sebastián Matías Puche</sub>](https://github.com/SebasTerco73) | [<img src="https://avatars.githubusercontent.com/u/85370846?v=4" width="115"><br><sub>Facundo Aldo Rodriguez</sub>](https://github.com/Facundo-A-R)  |
+| :---: |:---: |
+
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/1afd8a49-2d79-45b1-85e3-c3092bb456fc" />
+
